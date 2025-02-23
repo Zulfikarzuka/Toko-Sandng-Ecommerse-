@@ -1,0 +1,68 @@
+[
+  {
+    "name": "kemeja panjang",
+    "price": 150.0,
+    "image": "kemejaPanjang.jpg",
+    "type": "kemeja"
+  },
+  {
+    "name": "kemeja pendek",
+    "price": 125.0,
+    "image": "kemejaPendek.jpg",
+    "type": "kemeja"
+  },
+  {
+    "name": "baju tidur",
+    "price": 75.0,
+    "image": "bajuTidur.jpg",
+    "type": "baju"
+  },
+  {
+    "name": "baju polkadot",
+    "price": 85.0,
+    "image": "bajuPolkadot.jpg",
+    "type": "baju"
+  },
+  {
+    "name": "celana joger",
+    "price": 45.0,
+    "image": "celanaJoger.jpg",
+    "type": "celana"
+  },
+  {
+    "name": "celana pendek",
+    "price": 55.0,
+    "image": "celanaPendek.jpg",
+    "type": "celana"
+  },
+  {
+    "name": "hijab pasmina",
+    "price": 7.0,
+    "image": "hijabPasmina.jpg",
+    "type": "hijab"
+  },
+  {
+    "name": "hijab bergo",
+    "price": 95.0,
+    "image": "hijabBergo.jpg",
+    "type": "hijab"
+  },
+  {
+    "name": "batik bali",
+    "price": 95.0,
+    "image": "batikBali.jpg",
+    "type": "baju"
+  },
+  {
+    "name": "batik jakarta",
+    "price": 135.0,
+    "image": "batikJakarta.jpg",
+    "type": "baju"
+  },
+  {
+    "name": "batik palembang",
+    "price": 155.0,
+    "image": "batikPalembang.jpg",
+    "type": "baju"
+  }
+]
